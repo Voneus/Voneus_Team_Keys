@@ -1,2 +1,2 @@
-# Voneus_Team_Keys
-Public Keys for Voneus Team Members
+# Voneus Team Keys
+This repo contains public ssh keys for Voneus NetOps / Architecture Staff members
